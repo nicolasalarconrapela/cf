@@ -1,0 +1,16 @@
+- [ ] Agregar en recomendaciones de extensiones la extension browser
+- [ ] Cambiar la recarga de index por la de login
+- [ ] Obtencion de todos los usuarios independientemente de su logueo ( local/local-privado)
+
+
+- [x] Crear NAV menu
+- [ ] Redireccionar a las diferentes secciones
+- [ ] Verificacion de roles
+- [ ] Ejecucion con API
+- [ ] Subida de proyecto
+- [ ] Fix el navbar para que solo se tenga que pasar entre pestañas
+- [ ] Fix welcome y rutas
+- [ ]  Cuando se recarga Register aparece un 404
+- [ ] Validaciones
+- [ ] Creacion de Formularios de registrso de otros
+- [ ] cambiar los nombres

@@ -1,0 +1,67 @@
+{
+    "coloredRegions.namedColors": {
+        "Main": "rgb(25,25,112)",
+        "Review": "rgb(255,127,80)",
+        "Fixed": "rgb(255,69,0)",
+        "ok": "rgb(0,100,0)",
+        "ReviewComment": "rgb(255,215,0)",
+        "Eliminate": "rgb(0,0,0)",
+        "TEST": "rgba(0,0,255,0.2)",
+        "question": "rgba(0,0,0)"
+    },
+    "window.title": "REACT",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#2c50b4",
+        "activityBar.background": "#3c4e5f",
+        "tree.indentGuidesStroke": "#ff0000",
+        "editorIndentGuide.activeBackground": "#fbff00",
+        "editor.background": "#1d1a1a"
+    },
+    "better-comments.tags": [
+        {
+            "tag": "?",
+            "color": "#fbff00",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        }
+    ],
+    "files.exclude": {
+        ".vscode": true,
+        "DOCS/Template": true,
+        "components/Login_V01/react-redux-registration-login-example.zip": true,
+        ".idea/**/workspace.xml": true,
+        ".idea/**/tasks.xml": true,
+        ".idea/**/usage.statistics.xml": true,
+        ".idea/**/dictionaries": true,
+        ".idea/**/shelf": true,
+        ".idea/**/contentModel.xml": true,
+        "**/.idea/**/dataSources/": true,
+        ".idea/**/dataSources.ids": true,
+        ".idea/**/dataSources.local.xml": true,
+        ".idea/**/sqlDataSources.xml": true,
+        ".idea/**/dynamic.xml": true,
+        ".idea/**/uiDesigner.xml": true,
+        ".idea/**/dbnavigator.xml": true,
+        ".idea/**/gradle.xml": true,
+        ".idea/**/libraries": true,
+        "**/cmake-build-*/": true,
+        ".idea/**/mongoSettings.xml": true,
+        "**/*.iws": true,
+        "**/out/": true,
+        "**/.idea_modules/": true,
+        "**/atlassian-ide-plugin.xml": true,
+        ".idea/replstate.xml": true,
+        "**/com_crashlytics_export_strings.xml": true,
+        "**/crashlytics.properties": true,
+        "**/crashlytics-build.properties": true,
+        "**/fabric.properties": true,
+        ".idea/httpRequests": true,
+        ".idea/caches/build_file_checksums.ser": true,
+        "**/.idea/": true,
+        "**/*.iml": true,
+        "**/modules.xml": true,
+        ".idea/misc.xml": true,
+        "**/*.ipr": true,
+        ".idea/sonarlint": true
+    },
+}

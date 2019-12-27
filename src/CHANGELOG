@@ -1,0 +1,149 @@
+- V01
+    - React :
+        - Actualizacion de pack.json
+            - Version para el DataGrid
+        - Agregacion de indexx.js
+        - Add CHANGELOG
+        - Agregacion de elementos para la carga del DataGrid
+
+- V02 (0bb23d3)
+    - React : Posibilitamos mostrar DataGrid
+        - Delete proxy in pack.json
+        - Comentamos css de Prompt.css
+        - Actualizacion de pack.json
+        - Actualizacion de index.html
+        
+- V03 (d114481)
+    - React
+        - Actualizacion de estilo
+
+- V04 (25e8322)
+    - React
+        - Modificacion temporal de estilos indexx.css
+        - Posibilitamos mostrar una demo de @Author
+        - Agregacion de 'example_author.json'
+        - Agregacion de 'indexx_origin.js'
+
+- V04.01(721f034)
+    - React
+        - index01.js => Mejora en estilos
+
+- V05()
+    - React
+        - Upd. tag the index.html
+
+- V06()
+    - AnLibrary :
+        - Upd. csproj
+
+- V13(2ad1a54) Posibilidad de mostrar DGV_AUTHOR
+    - React
+        - index01.js => 
+            - ADD de llamada a syncfusion/ej2-data desde url 
+        - CREATE api_sample.js
+
+- V14()
+    - index01.js -> DGV_Author.js => routes.tsx
+    - DEL : example_author.json
+    - api_sample => Agregacion de Books
+    - CREATE 
+        - DGV_AUTHOR
+        - DGV_BOOK
+        - DGV_LOAN
+        - api_sample2.js
+        - api_loan.js
+    - UPD. 
+        - routes.tsx
+        - api_sample.js
+
+- V15()
+    - RENAME 
+        - api_sample => api_author
+        - api_sample => api_book
+    - UPDATE 
+        - Welcome
+        - api_{author/book/loan}
+        - DGV_{author/book/loan}
+        - routes
+
+- V16()
+    - DGV_{author/book/loan} => Mejora de los headers
+    - DGV_LOAN => Add menu
+
+- V17() : 
+    - Possibility to edit in DGV_AUTHOR
+
+- V18() :
+    - Creacion de Login
+    - V18.1() :
+        - Agregacion de loginreactredux
+    - V18.2 :
+        - Cambio de Login por Login_NULL
+        - Cambio de reactloginredux por login
+    - V18.3() :
+        - Mejora en 404
+        - Add TASK
+        - Refactorizacion de Back 
+    - V18.4A():
+        - Refactorizacion 
+            - basada en la mejora de interpretacion
+            =>  - _actions    
+                - _constants
+                - _components  
+                - _helpers
+                - LoginReact.js
+    - V18.4B()
+        - Refactorizacion
+            - _reducers 
+            - App       
+            - LoginPage      
+            - _services  
+            - HomePage  
+
+- V19()
+    - Fixed :
+        - Acceso de login con usuario logueado
+        - Salida con logout
+        - Add the _constants/url.constant
+    - V19A()
+        - Change to pages/
+    - V19B()
+        - cambio de src a login/
+    - V19C()
+        - Agregacion de 'Nav'
+
+- V20()
+    - Mejora de reorganizacion de aplicacion
+    - V20A()
+        - Unificacion de 'pages'
+    - V20B()
+        - Agregacion 
+            - de 'navbar'
+            - de Logout
+            - de HomeBlank
+            - eliminacion de 'Welcome'
+    - V20C()
+        - Agregacion de DGV
+    - V20D()
+        - Eliminacion de 'Search'
+        - Cambio NavBar* a Tab/
+    - V20E/()
+        - Agregacion de 'Navbar' en todos las urls
+        - Agregacion a 'NavBar' de logout
+    - V20D/()
+        - Agregacion de 'DGV_User'
+    - V20E/()
+        - Agregacion de DGV_USER
+        - Fixed the DGV_Books => import {}
+    - V20F/()
+        - Agregacion de funcionalidad de rutas permisivas
+        - Fixed edicion en DGV_LOAN
+
+- V21() :
+    - Modelacion de LOGIN/REGISTER
+    - Eliminacion por seguridad :
+        - Value
+        - clase
+- V23() :
+    - Comienzo de la verificacion de campos
+    

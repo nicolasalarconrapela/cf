@@ -1,0 +1,36 @@
+ /* body {
+   background-color: black;
+     display: flex;
+    justify-content: center;
+ }
+
+ .container {
+    background-color: black;
+    display: block;
+    width: 500px;
+    margin-top: 120px;
+ }
+
+ .title {
+    text-align: center;
+    color: white;
+ }
+
+ .new-task {
+    display: block;
+    width: 100%;
+    background-color: azure;
+    border-radius: 50px;
+    height: 40px;
+    border-color: aquamarine;
+    border-width: 4px;
+    text-align: center;
+    font-size: 24px;
+ }
+
+ .test-label {
+   text-align: center;
+   color: white;
+   font-style: italic;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+} */
